@@ -76,9 +76,9 @@ const Home = () => {
           sx={{
             display: "flex",
             justifyContent: "space-between",
-            marginTop: "30px",
+            marginTop: "120px",
             background: "#8082A6",
-            height: "70vh",
+            height: "50vh",
           }}
         >
           <Box

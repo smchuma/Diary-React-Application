@@ -78,7 +78,7 @@ const Diary = () => {
               fontFamily: "Montserrat",
               padding: "10px 70px",
               fontWeight: "bold",
-              marginTop: "20px",
+              marginTop: "50px",
             }}
           >
             Start Writing Your Story Today
@@ -87,7 +87,7 @@ const Diary = () => {
             <Button
               sx={{
                 background: "transparent",
-                marginTop: "40px",
+                marginTop: "70px",
                 marginRight: "200px",
                 borderRadius: "20px",
                 width: "150px",
@@ -121,7 +121,7 @@ const Diary = () => {
                         background: "#4e4e6d",
                         borderRadius: "20px",
                         border: "1px solid #ffffff",
-                        marginTop: "25px",
+                        marginTop: "85px",
                         width: "350px",
                         height: "22vw",
                         display: "flex",
